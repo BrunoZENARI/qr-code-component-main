@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    font-size: 15px;
+    text-align: center;
+}
+
+.QR{
+    image-resolution: 1440px;
+    text-align: center;
+    
+}
+
+.first_section{
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.second_section{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: x-large;
+}
+
+.attribution {
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+
