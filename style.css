@@ -1,40 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 body{
-    background-color: paleturquoise;
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     overflow: hidden;
 }
 
-main{
-    display: flex;
-    justify-content: center;
-}
 
 .container-QR{
-    display: flex;
-    flex-direction: column;
-    max-width: 330px;
+    max-width: 300px;
     background-color: white;
     padding: 15px;
     border-radius: 20px;
-    margin: 0;
-}
-
-.element-QR{
-    display: flex;
-    justify-content: center;
-    width: 100%;
     text-align: center;
-    
 }
 
 .element-QR img{
     border-radius: 15px;
+    width: 100%;
 }
 
 .first_section{
