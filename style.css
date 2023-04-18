@@ -3,6 +3,7 @@
 body{
     font-size: 15px;
     text-align: center;
+    
 }
 
 .QR{
@@ -16,7 +17,6 @@ body{
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-size: xx-large;
-    text-align: center;
 }
 
 .second_section{
